@@ -9,4 +9,6 @@ The dataset for this project has been generously provided by "Sea Around Us," an
 
 the preview of the report can be previewed below 
 
+Interactive [Power BI](https://app.powerbi.com/view?r=eyJrIjoiOGI4OGQ1NWYtMDEwNC00MmU4LTkyZmUtYmE5ZDE3NjZkZWI1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ![Indonesia's Fisheries_001](https://github.com/MuhammadFakhrurradhi/POWER-BI-Indonesia-fishery/assets/131879017/5e88f610-7596-4e7b-8293-f07b20dc27cc)
